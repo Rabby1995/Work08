@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cambay:wght@700&family=Poppins:wght@400;800&display=swap');
+@font-face{
+	font-family:"Muli";
+	src:url("../font/muli.eot") format("eot"),
+	url("../font/muli.woff") format("woff"),
+	url("../font/muli.ttf") format("truetype"),
+	url("../font/muli.svg#muli") format("svg");
+}
+@font-face{
+	font-family:"Glasical";
+	src:url("../font/glasical.eot") format("eot"),
+	url("../font/glasical.woff") format("woff"),
+	url("../font/glasical.ttf") format("truetype"),
+	url("../font/glasical.svg#glasical") format("svg");
+}
+
+/*
+	font-family:"Muli";
+	font-family:"Glasical";
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Cambay', sans-serif;
+*/
